@@ -1,0 +1,21 @@
+{
+  "author": {
+    "email": "gajus@gajus.com",
+    "name": "Gajus Kuizinas",
+    "url": "http://gajus.com"
+  },
+  "description": "Generalized LL (GLL)",
+  "keywords": [
+    "parser",
+    "algorithm",
+    "gll",
+    "cfg"
+  ],
+  "license": "BSD-3-Clause",
+  "name": "gll",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gajus/gll"
+  },
+  "version": "0.0.0"
+}
